@@ -1,0 +1,21 @@
+Signup Page
+	Confirm button will link to Login page
+	Login button will link to Login page
+	
+Login Page
+	Confirm button will link to Home
+	Signup button will link to Signup Page
+	Confirm button Under Verifcation
+
+Home Page
+	Playlist will Jump to playlist details
+	Current song will open up the player
+	
+Player
+	Artist name will open up that artist songs as playlist
+	Album name will open up the album 
+	Queue will open up the current playlist
+	
+Playlist
+	Song from song list will open up Player
+	
